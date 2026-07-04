@@ -57,6 +57,15 @@ This project performs exploratory data analysis on the UCI Heart Disease dataset
 
 ---
 
+## How to Run
+
+1. Clone or download this repo
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open `heart_disease_eda.ipynb` in Jupyter or VS Code
+4. Run all cells top to bottom
+
+---
+
 ## Dataset
 UCI Heart Disease Dataset — publicly available via [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+disease).
 303 patients, 13 clinical features including age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar, resting ECG, max heart rate, exercise-induced angina, and more.
